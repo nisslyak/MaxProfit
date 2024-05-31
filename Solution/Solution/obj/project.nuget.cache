@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "F+/lxslz40WlSEgY3oCaT+3HNx4peQ/QQ9g+IAuXf4IEKgOYg+MVN6KaLXy5XDUx/VtOkyPrFTQCTnESjAeukg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aapod\\source\\repos\\MaxProfit\\Solution\\Solution\\Solution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aapod\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\aapod\\.nuget\\packages\\nsubstitute\\5.1.0\\nsubstitute.5.1.0.nupkg.sha512",
+    "C:\\Users\\aapod\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
